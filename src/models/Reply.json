@@ -1,0 +1,28 @@
+{
+    "Home": {
+        "message": {
+            "text": "Select Your Action :)"
+        },
+        "keyboard": {
+            "type": "buttons",
+            "buttons": [ "Home", "ButtonAction", "TypingAction" ]
+        }
+    },
+    "ButtonAction": {
+        "message": {
+            "text": "Long Paragraph Test..! \n\nquia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+        },
+        "keyboard": {
+            "type": "buttons",
+            "buttons": [ "Home" ]
+        }
+    },
+    "TypingAction": {
+        "message": {
+            "text": "Please Tell Me Something..!"
+        },
+        "keyboard": {
+            "type": "text"
+        }
+    }
+}
